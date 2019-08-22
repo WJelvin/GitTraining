@@ -8,6 +8,7 @@ public class App {
         System.out.println(mmc.getNumber());
 
         System.out.println("New commit");
+        System.out.println("Even newer commit");
     }
     
 }
