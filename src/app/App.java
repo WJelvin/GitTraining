@@ -9,6 +9,8 @@ public class App {
 
         System.out.println("New commit");
         System.out.println("Even newer commit");
+
+        System.out.println("Created a new branch with this feature!");
     }
     
 }
